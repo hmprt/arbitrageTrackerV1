@@ -6,7 +6,7 @@ The app is capable of reading and writing data, and generates and stores a list 
 
 The coolest part about this project is that it actually works, at least for stablecoints: **here's some sample output**:
 
-Trading Pair:    Token 1 liquidity:           Token 2 liquidity:    Uniswap2 Price:                        Kyberswap Min. Price:
+```Trading Pair:    Token 1 liquidity:           Token 2 liquidity:    Uniswap2 Price:                        Kyberswap Min. Price:
 ---------------  ---------------------------  --------------------  -------------------------------------  ----------------------------
 DAI/USDT         1554006.946 DAI              1575859.933 USDT      0.986DAI/USDT                          0.983DAI/USDT
 DAI/LINK         82.712 DAI                   1027.409 LINK         0.081DAI/LINK                          0.081DAI/LINK
@@ -22,6 +22,7 @@ LINK/WETH        821962.350 LINK              27427.984 WETH        29.968LINK/W
 USDC/WETH        50983564.174 USDC            141229.297 WETH       360.998USDC/WETH                       349929386650000.000USDC/WETH
 USDC/sUSD        641424.817 USDC              0.000 sUSD            641424817384999899627520.000USDC/sUSD  984224665654.783USDC/sUSD
 sUSD/WETH        11490964.383 WETH            31650.355 sUSD        363.060sUSD/WETH                       354.774sUSD/WETH
+```
 
 **Takeaways for V2**
 
