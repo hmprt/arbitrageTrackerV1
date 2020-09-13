@@ -4,7 +4,7 @@ A basic app which uses web3.py and the etherscan.io api to examine the blockchai
 
 The app is capable of reading and writing data, and generates and stores a list of trading pairs and their corresponding Uniswap Smart Contract if the -update argument is passed through CLI. This is so that the app doesn't have to look up every Uniswap exchange address at runtime. 
 
-The coolest part about this project is that it actually works, at least for stablecoints: **here's some sample output**:
+The coolest part about this project is that it actually works, at least for stablecoint: **here's some sample output**:
 
 ```
 Trading Pair:    Token 1 liquidity:           Token 2 liquidity:    Uniswap2 Price:                        Kyberswap Min. Price:
